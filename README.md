@@ -1,7 +1,9 @@
 # gender-equality-startistical-report
 added later
 
+## Repo structure
 
+```
 gender-equality-statistical-report/
 │
 ├── README.md
@@ -23,3 +25,4 @@ gender-equality-statistical-report/
 │   └── utils.py
 │
 └── references.md
+```
