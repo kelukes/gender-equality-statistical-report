@@ -86,7 +86,6 @@ gender-equality-statistical-report/
 │   ├── The-Gender-Conversion-Gap-From-STEM-and-Digital-Participation-to-Labour-Market-Power.pdf
 │   ├── The-Gender-Conversion-Gap-presentation.pdf
 │   ├── figures/
-│   └── tables/
 │
 └── references.md
 ```
