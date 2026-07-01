@@ -1,0 +1,7 @@
+variable,latest_year,estonia_value,unit,direction,interpretation_note
+stem_women_share,2024.0,41.5457041977246,percent,Higher = more women represented among tertiary STEM graduates,Women as a percentage of tertiary STEM graduates.
+coding_gap_youth_M_minus_F,2025.0,7.520500000000002,percentage points,Higher = larger male advantage in youth coding activity,Gender gap in the share of 16-24-year-olds who wrote computer code in the last 12 months.
+labour_force_participation_gap_M_minus_F,2025.0,4.923999999999992,percentage points,Higher = larger male advantage in labour-force participation,"Gender gap in labour force participation rate, ages 15-74."
+gender_wage_gap_median,2024.0,19.77020627,percent,Higher = larger wage inequality / worse pay outcome for women,"Median gender wage gap, expressed relative to men's wages."
+part_time_employment_gap_F_minus_M,2025.0,5.542879711387393,percentage points,Higher = women are more concentrated in part-time employment relative to men,Gender gap in the incidence of part-time employment among employees.
+women_senior_middle_mgmt_share,2023.0,31.51,percent,Higher = more women represented in senior and middle management positions,Women as a percentage of senior and middle management positions.

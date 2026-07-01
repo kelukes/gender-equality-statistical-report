@@ -1,0 +1,7 @@
+sample,variable,layer,count,mean,median,std,min,max,final_unit,direction
+oecd_members,stem_women_share,education_pipeline,38.0,33.781769491223464,34.24615908375455,5.5646709163498045,18.0781022514398,43.2914046121593,percent,Higher = more women represented among tertiary STEM graduates
+oecd_members,coding_gap_youth_M_minus_F,digital_skills_pipeline,32.0,11.118348782518575,10.0501,6.116723458721549,-0.3713999999999999,28.8496,percentage points,Higher = larger male advantage in youth coding activity
+oecd_members,labour_force_participation_gap_M_minus_F,work_access,38.0,10.591157894736844,7.968500000000002,7.206508951752765,4.099999999999994,35.627,percentage points,Higher = larger male advantage in labour-force participation
+oecd_members,gender_wage_gap_median,pay_outcome,38.0,10.340740720005263,10.744990108500001,6.739113538297543,-8.677098151,28.953678228,percent,Higher = larger wage inequality / worse pay outcome for women
+oecd_members,part_time_employment_gap_F_minus_M,work_structure_care,36.0,10.881395295497814,9.21290085303188,8.93262178535257,-10.772699072525125,33.25928129523808,percentage points,Higher = women are more concentrated in part-time employment relative to men
+oecd_members,women_senior_middle_mgmt_share,leadership_proxy,30.0,34.022666666666666,34.72,7.093095201689448,13.27,44.33,percent,Higher = more women represented in senior and middle management positions
