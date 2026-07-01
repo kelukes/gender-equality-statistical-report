@@ -1,0 +1,5 @@
+Hypothesis,Expected direction,n,Pearson r / raw p,Holm-adjusted p,Spearman,OLS slope CI,Assessment
+H1 - STEM-to-leadership conversion,positive,30,r = 0.43; p = .019,p = .037,rho = 0.25; p = .188,"0.56 [0.10, 1.03]",partial support
+H2 - STEM-to-pay equality,negative,38,r = -0.17; p = .295,p = .295,rho = -0.12; p = .468,"-0.21 [-0.61, 0.19]",not supported / inconclusive
+H3 - Digital-skills gap and labour-market participation,positive,32,r = -0.52; p = .003,not applied,rho = -0.46; p = .008,"-0.62 [-1.00, -0.23]",expected direction not supported
+H4 - Work-structure bottleneck,positive,36,r = -0.21; p = .210,not applied,rho = -0.21; p = .214,"-0.14 [-0.36, 0.08]",not supported
